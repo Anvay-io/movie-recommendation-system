@@ -7,15 +7,9 @@
 </p>
 
 <p align="center">
-  🚀 **Live Demo:**  1movie-recommendation-system.streamlit.app
-  · 💻 **GitHub:** https://github.com/Anvay-io/movie-recommendation-system
-</p>
-
-<p align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-  ![TMDB](https://img.shields.io/badge/TMDB-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)
+  🚀 **Live Demo:** (https://1movie-recommendation-system.streamlit.app/)
+ <br>
+   💻 **GitHub:** https://github.com/Anvay-io/movie-recommendation-system
 </p>
 
 ---
